@@ -7,6 +7,13 @@ class NextPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(),
+      body: const Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Text("ID"),
+          Text("PW"),
+        ],
+      ),
     );
   }
 }

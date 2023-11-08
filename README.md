@@ -1,16 +1,47 @@
-# flutter_demo_app
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/11171872/203345580-40a14fa9-b1f0-4c29-a042-138ff78f7d9b.jpg" width="500">
+</div>
 
-A new Flutter project.
+<h1 align="center">Flutter Demo App</h1>
 
-## Getting Started
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter" />
+</div>
 
-This project is a starting point for a Flutter application.
+## :computer: URL
 
-A few resources to get you started if this is your first Flutter project:
+...
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## :pencil2: Overview
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Develop a simple password management app using Flutter.
+
+## :hammer: Requirement
+
+- macOS
+- Flutter
+
+## :pushpin: Usage
+
+Git clone
+```
+$ git clone https://github.com/shumatsumoto/flutter_demo_app.git
+```
+Move to directory
+```
+$ cd flutter_demo_app
+```
+
+## :railway_car: Features
+
+...
+
+## :green_book: Reference
+
+- [【Flutter】3日でできるFlutterアプリ開発入門【環境構築からUI作成まで】](https://www.udemy.com/course/flutter_starter/)
+
+## :hatching_chick: Author
+
+- [Github](https://github.com/shumatsumoto)
+- [Qiita](https://qiita.com/ShuMatsumoto)
+
